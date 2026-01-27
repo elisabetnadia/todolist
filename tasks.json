@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "nama": "snb-uh kreativitas tari",
+    "mata_pelajaran": "snb",
+    "deadline": "28-01-2026",
+    "completed": true,
+    "created_at": "27-01-2026 06:31:34"
+  },
+  {
+    "id": 2,
+    "nama": "koperasi",
+    "mata_pelajaran": "ekonomi",
+    "deadline": "22-02-2026",
+    "completed": false,
+    "created_at": "27-01-2026 06:40:43"
+  }
+]
