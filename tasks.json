@@ -14,5 +14,16 @@
     "deadline": "22-02-2026",
     "completed": false,
     "created_at": "27-01-2026 06:40:43"
+  },
+  {
+    "id": 3,
+    "nama": "gamelan",
+    "mata_pelajaran": "basa jawa",
+    "deadline": "28-01-2026",
+    "completed": false,
+    "status": "ACTIVE",
+    "notified_1d": true,
+    "notified_1h": false,
+    "created_at": "28-01-2026 01:01:38"
   }
 ]
